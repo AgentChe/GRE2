@@ -8,7 +8,7 @@
 import Foundation
 
 final class GlobalDefinitions {
-    static let domain = "https://bank.apps-by-konstantin.com"
+    static let domain = "https://bank5.apps-by-konstantin.com"
     static let apiKey = "AzmXwjHEIbfvHdp5XZ64"
     
     static let otterScaleHost = "https://api.korrekted.com"
